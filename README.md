@@ -4,7 +4,7 @@
 ## Overview of Project
 
 ### Purpose
-
+The purpose of this analysis is to compare campign success rates and funding goals to their respective launch dates and how they are affected. 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
@@ -17,8 +17,10 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+One of the most obvious outcomes of the launch dates is that there is a higher success rate in the Summer months. If we take a look at the theater outcomes by launch date chart, you will also see an increase in cancellations in the Winter months. This could be due to the Summer months being a less busy time for most families, meaning more time to go see a live play.
 - What can you conclude about the Outcomes based on Goals?
 
+By looking at the outcomes based on goals chart, we notice that there is a higher success rate in the goal range of less than $1000. It seems as though you will suceed better with a more obatinable goal, rather than a larger sum amount. A larger total goal rate is less likely to succeed when compared to a smaller goal amount.
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
