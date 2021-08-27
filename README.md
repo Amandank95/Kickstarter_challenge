@@ -4,7 +4,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to compare campaign success rates and funding goals to their respective launch dates to help Louise succeed on her upcoming play, "Fever." Our goal is to help Louise gain the most amount of success by analyzing past successful plays.
+The purpose of this analysis is to compare campaign success rates and funding goals to their respective launch dates to inform Louise what factors will help her succeed on her upcoming play, "Fever." Our goal is to help Louise gain the most amount of success by analyzing past successful, failed and canceled plays.
 ## Analysis and Challenges
 
 In my analysis, it is apparent that most plays performed better during the summer months, and did not perform nearly as well during the winter months. By looking at the charts, we will notice a pattern of successful to failed plays in the summer. The success rate skyrockets, and the failed rate remained pretty stangnant when compared to other months. We can also see that plays with lower goal ranges did significantly better than the plays with much higher goal ranges. This could potentially be due to accessibility to resources to reach that goal. Louise would have a higher success rate if she aimed for a lower goal amount on her play, "Fever", and aimed for a release date during the summer months. Louise could maximize her success rate if she were to release "Fever" anywhere from May-July with a goal range of less than $1,000 up to $5,000.
